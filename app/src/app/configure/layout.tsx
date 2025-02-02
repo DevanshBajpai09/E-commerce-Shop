@@ -1,8 +1,11 @@
+import MaxWidthWrapper from '@/Component/MaxWidthWrapper'
 import React from 'react'
 
-const layout = () => {
+const layout = ({children}:{children : ReactNode}) => {
   return (
-    <div>layout</div>
+    <MaxWidthWrapper className='flex-1 flex flex-col '>{children}
+
+    </MaxWidthWrapper>
   )
 }
 
