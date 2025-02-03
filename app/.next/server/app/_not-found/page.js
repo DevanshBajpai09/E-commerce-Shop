@@ -9,7 +9,7 @@ runtime.loadChunk("server/chunks/ssr/node_modules_@kinde-oss_kinde-typescript-sd
 runtime.loadChunk("server/chunks/ssr/node_modules_@kinde-oss_kinde-typescript-sdk_dist_sdk_744e4a._.js");
 runtime.loadChunk("server/chunks/ssr/node_modules_@kinde-oss_kinde-typescript-sdk_dist_adb6f3._.js");
 runtime.loadChunk("server/chunks/ssr/node_modules_656481._.js");
-runtime.loadChunk("server/chunks/ssr/[root of the server]__4be6e2._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__e7173d._.js");
 runtime.loadChunk("server/chunks/ssr/[root of the server]__8ebb6d._.css");
 runtime.loadChunk("server/chunks/ssr/_bd4a5d._.js");
 runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/_not-found/page/actions.js [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
