@@ -82,7 +82,7 @@ const Page = () => {
                   height={20}
                   className="text-zinc-600 mb-2"
                   alt="Upload placeholder"
-                  src={''}
+                  src='/upload-placeholder.png'
                 />
               )}
               <div className="flex flex-col justify-center mb-2 text-sm text-zinc-700">

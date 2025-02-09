@@ -182,7 +182,7 @@ const Page = ()=>{
                                 height: 20,
                                 className: "text-zinc-600 mb-2",
                                 alt: "Upload placeholder",
-                                src: ''
+                                src: "/upload-placeholder.png"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/configure/upload/page.tsx",
                                 lineNumber: 80,
